@@ -1,0 +1,8 @@
+user = "azureuser"
+password = "godofw@r35"
+location = "eastus"
+environment = "atividade-2"
+client_id = "*******"
+client_secret = "*******"
+tenant_id = "*******"
+subscription_id = "*******"
