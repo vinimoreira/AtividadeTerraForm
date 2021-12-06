@@ -1,5 +1,5 @@
 user = "azureuser"
-password = "godofw@r35"
+password = "password"
 location = "eastus"
 environment = "atividade-2"
 client_id = "*******"
